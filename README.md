@@ -1,17 +1,32 @@
 # 我是[会飞] 🐟
-您好呀，我是一名[你的身份，比如：98年的全栈开发者 | 知识博主 | 编程讲师]：
+您好呀，我是一名专注全栈开发的程序员，热衷于技术实践与开源分享~
 
-- 🧑‍💻 码龄X年，前[公司名]全栈开发、新人导师
-- 🌱 热爱分享，全网[X]万+编程知识博主，知识讲解通俗易懂
-- 📚 创作X年，字数破千万、播放破亿，出版过[书籍名]技术书籍
-- 🚀 创立[公司名]，带团队自研10+产品，如[项目名1]、[项目名2]
-- 📖 爱做项目，30+独立项目经验，著有20+套原创项目教程，GitHub中国区前10
+### 🛠️ 核心技术栈
+**前端 & 跨端**
+![Vue3](https://img.shields.io/badge/-Vue3-4FC08D?logo=vue.js&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white)
 
-也许你需要：
-- 👤 我的经历：[关于我页面链接]
-- 🎉 开源作品：[项目1链接] | [项目2链接] | [项目3链接]
-- ✍️ 干货分享：公众号「[你的公众号名]」| 抖音 | 小红书 | 知乎 | B站
-- 📚 编程学习交流：[学习社群/课程链接]
-- 📝 简历快速制作：[简历工具链接]
-- 🎯 面试刷题神器：[面试工具链接]
-- 🤖 AI 知识库：[AI学习链接]
+**后端 & 服务**
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+
+**数据库**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite3](https://img.shields.io/badge/-SQLite3-003B57?logo=sqlite&logoColor=white)
+
+### 📝 技术输出
+- 掘金优质原创作者，持续输出全栈开发、跨端应用、实战教程类技术文章
+- 掘金主页：https://juejin.cn/user/360295544400973/posts
+
+### 🌐 开源贡献
+- 积极参与多个开源项目开发与维护
+- 持续为开源社区贡献代码、文档与解决方案
+- 热衷于开源生态建设，乐于分享实战经验与技术方案
+
+### 🎯 擅长领域
+- 基于 Vue3 + Electron 开发桌面端跨平台应用
+- 使用 NestJS 搭建企业级后端服务与接口开发
+- MySQL / SQLite3 数据库设计、优化与数据管理
+- 全链路项目独立开发与落地（前端 + 后端 + 数据库）
+
+### 📫 主页
+- 掘金：https://juejin.cn/user/360295544400973/posts
